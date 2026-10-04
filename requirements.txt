@@ -1,2 +1,16 @@
 
-sdfg
+# Frontend
+React.js
+HTML
+CSS
+
+# Data Base
+PostgreSQL
+
+# Backend 
+Python
+OOPs
+Frameworks: FastAPI
+REST API
+Swagger
+SQLAlchemy
